@@ -4,7 +4,12 @@
         
 <div align="center">
 
-|Developer| Computer Science student | Designer |
+<div align="center">
+
+| Developer | Computer Science student | Designer |
+| --------- | ------------------------ | -------- |
+
+</div>
 
 </div>
 
