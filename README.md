@@ -12,12 +12,6 @@
 
 </div>
 
-## <h3 align="center">🔭 About Me</h3>
-
-I build web apps and small desktop tools that solve real user problems. I enjoy working on backend systems, UI polishing, and system design (databases, APIs, queue systems).
-
----
-
 ## <h3 align="center">🧰 Tech Stack & Tools</h3>
 
 ![](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
