@@ -1,4 +1,3 @@
-
 <h1 align="center"><strong>Hello World ! 👋</strong></h1>
 <center style="color:aqua">It's Fahadh</center>
         <img class="profile-image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNkcjhweDRxbmJ2aWhyOHprMTJubnp0MjM1cG9ocjNoZTVlOGRnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding animation" width="720">
@@ -27,18 +26,9 @@ I build web apps and small desktop tools that solve real user problems. I enjoy 
 
 ## <h3 align="center"> 📊 GitHub Stats <h3>
 
-<div style="
-        display: grid;
-        grid-auto-flow: column;
-        gap:0;
-        grid-template-areas: 'langs stats'
-                             'langs streak';
-        align-items:center">   
-<img style="grid-area: stats;" src="https://github-readme-stats.vercel.app/api?username=FahadhCodes&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="github-stats" />
-<img style="grid-area: streak;" src="https://github-readme-streak-stats.herokuapp.com/?user=FahadhCodes&theme=merko&hide_border=true" alt="top-streak" />
-<img  style="grid-area: langs;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahadhCodes&theme=merko&show_icons=true&hide_border=true&layout=compact" alt="top-langs" />
-
-</div>
+![FahadhCodes's Stats](https://github-readme-stats.vercel.app/api?username=FahadhCodes&theme=merko&show_icons=true&hide_border=true&count_private=true)
+![FahadhCodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FahadhCodes&theme=merko&hide_border=true)
+![FahadhCodes's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadhCodes&theme=merko&show_icons=true&hide_border=true&layout=compact)
 
 ## 💬 Let’s Connect
 
