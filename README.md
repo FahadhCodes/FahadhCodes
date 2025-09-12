@@ -33,10 +33,10 @@
 
 ## 💬 Let’s Connect
 
-<p>
-  <a href="mailto:fahad.work2948@gmail.com"><img src="https://img.shields.io/badge/Email-fahad.work2948@gmail.com-aqua?style=flat-square" alt="email"></a><br>
-  <a href="https://www.linkedin.com/in/fahadworks"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="linkedin"></a><br>
-  <a href="https://www.facebook.com/fahad.mohamed.2948"><img src="https://img.shields.io/badge/Facebook-Follow-1DA1F2?style=flat-square" alt="twitter"></a><br>
+<p align="center">
+  <a href="mailto:fahad.work2948@gmail.com"><img src="https://img.shields.io/badge/Email-fahad.work2948@gmail.com-aqua?style=flat-square" alt="email"></a>
+  <a href="https://www.linkedin.com/in/fahadworks"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="linkedin"></a>
+  <a href="https://www.facebook.com/fahad.mohamed.2948"><img src="https://img.shields.io/badge/Facebook-Follow-1DA1F2?style=flat-square" alt="twitter"></a>
 </p>
 
 ---
