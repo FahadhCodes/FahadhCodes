@@ -1,21 +1,10 @@
-<!--
-  Professional & modern GitHub profile README
-  - Replace YOUR_USERNAME with your GitHub username
-  - Replace placeholders (name, bio, links, projects, skills) with your details
-  - Optional: replace GIFs & icons with your preferred assets
--->
 
-<!-- Animated header GIF -->
 <h1 align="center"><strong>Hello World ! 👋</strong></h1>
-<div style="color:aqua;">
-<center>It's Fahadh</center>
-  <img style="border-radius:6px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNkcjhweDRxbmJ2aWhyOHprMTJubnp0MjM1cG9ocjNoZTVlOGRnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding animation" width="720">
-    <div align="center" style="display:grid; grid-auto-flow:column; gap:50px">
-        <span style="border:1px solid blue; padding:10px; color:aqua; border-radius:6px">Developer</span> 
-        <span style="border:1px solid blue; padding:10px; color:aqua; border-radius:6px">Computer Science student</span> 
-        <span style="border:1px solid blue; padding:10px; color:aqua; border-radius:6px">Designer<span>
-    </div>
-</div>
+<center style="color:aqua">It's Fahadh</center>
+        <img class="profile-image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNkcjhweDRxbmJ2aWhyOHprMTJubnp0MjM1cG9ocjNoZTVlOGRnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding animation" width="720">
+        
+| <span style="color:aqua">Developer|<span style="color:aqua"> Computer Science student | <span style="color:aqua">Designer |
+|-----------|---------------------------|----------|
 
 ---
 
