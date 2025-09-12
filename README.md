@@ -3,18 +3,16 @@
 <center style="color:aqua">It's Fahadh</center>
         <img class="profile-image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNkcjhweDRxbmJ2aWhyOHprMTJubnp0MjM1cG9ocjNoZTVlOGRnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding animation" width="720">
         
-| <span style="color:aqua">Developer|<span style="color:aqua"> Computer Science student | <span style="color:aqua">Designer |
+|Developer| Computer Science student | Designer |
 |-----------|---------------------------|----------|
 
----
-
-## <center>🔭 About Me</center>
+## <h3 align="center">🔭 About Me</h3>
 
 I build web apps and small desktop tools that solve real user problems. I enjoy working on backend systems, UI polishing, and system design (databases, APIs, queue systems).
 
 ---
 
-## <center>🧰 Tech Stack & Tools</center>
+## <h3 align="center">🧰 Tech Stack & Tools</h3>
 
 ![](https://img.icons8.com/?size=100&id=20909&format=png&color=000000)
 ![](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
@@ -27,7 +25,7 @@ I build web apps and small desktop tools that solve real user problems. I enjoy 
 
 ---
 
-## <center> 📊 GitHub Stats <center>
+## <h3 align="center"> 📊 GitHub Stats <h3>
 
 <div style="
         display: grid;
