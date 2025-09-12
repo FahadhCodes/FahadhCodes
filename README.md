@@ -2,8 +2,12 @@
 <h3 align="center">It's Fahadh</h3>
         <img class="profile-image" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNkcjhweDRxbmJ2aWhyOHprMTJubnp0MjM1cG9ocjNoZTVlOGRnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding animation" width="720">
         
-<span align="center">|Developer| Computer Science student | Designer |<span>
+<span align="center">
+
+|Developer| Computer Science student | Designer |
 |-----------|---------------------------|----------|
+
+<span>
 
 ## <h3 align="center">🔭 About Me</h3>
 
