@@ -1,6 +1,6 @@
 <h1 align="center"><strong>Hello World ! 👋</strong></h1>
 <div align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThnYmp3MzBhNnBucWl6cWhnZ2piMW14YnFlaXV0cmZsdGgydDFkcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OLMe2034G8I0XTk6DC/giphy.gif" alt="my brand">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tkd2c4dGx5eWYybHUxYzYzYmFscHRpa3BuYzZhd29jbXoxaDNrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yi9mVcEISEevwyE6AD/giphy.gif" alt="my brand">
 </div>
 
 <div align="center">
