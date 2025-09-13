@@ -6,8 +6,8 @@
 
 <div align="center">
 
-| Developer | Computer Science student | Designer |
-| --------- | ------------------------ | -------- |
+| <marquee>Developer</marquee> | <marquee>Computer Science</marquee> | <marquee>Designer</marquee> |
+| ---------------------------- | ----------------------------------- | --------------------------- |
 
 </div>
 
