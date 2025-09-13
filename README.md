@@ -11,10 +11,11 @@
 
 </div>
 
-## <h3 align="center">🧰 Tech Stack & Tools</h3>
+## <h3 align="center">🧰 Tech Stack</h3>
+
+---
 
 <div align="center">
-
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" alt="HTML">
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" alt="css">
 <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" width="50" alt="js">
@@ -23,6 +24,20 @@
 <img src="image-3.png" width="50" alt="C#">
 <img src="image-4.png" width="50" alt="JAVA">
 <img src="image-5.png" width="50" alt="Bootstrap">
+<img src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000" width="50" alt="jQuery">
+</div>
+
+## <h3 align="center">🛠️ Tools</h3>
+
+---
+
+<div align="center">
+<img src="image-6.png" width="50" alt="photoshop">
+<img src="image-7.png" width="50" alt="illustrator">
+<img src="image-8.png" width="50" alt="aftereffect">
+<img src="image-9.png" width="50" alt="access">
+<img src="image-10.png" width="50" alt="excel">
+<img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" alt="power bi">
 </div>
 
 ## <h3 align="center"> 📊 GitHub Stats <h3>
@@ -36,9 +51,9 @@
 ## 💬 Let’s Connect
 
 <p align="center">
-  <a href="mailto:fahad.work2948@gmail.com"><img src="https://img.shields.io/badge/Email-fahad.work2948@gmail.com-aqua?style=flat-square" alt="email"></a>
-  <a href="https://www.linkedin.com/in/fahadworks"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square" alt="linkedin"></a>
-  <a href="https://www.facebook.com/fahad.mohamed.2948"><img src="https://img.shields.io/badge/Facebook-Follow-1DA1F2?style=flat-square" alt="twitter"></a>
+  <a href="https://www.linkedin.com/in/fahadworks"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A65C0?style=flat-square" alt="linkedin"></a>
+  <a href="mailto:fahad.work2948@gmail.com"><img src="https://img.shields.io/badge/Email-fahad.work2948@gmail.com-yellow?style=flat-square" alt="email"></a>
+  <a href="https://www.facebook.com/fahad.mohamed.2948"><img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=flat-square" alt="twitter"></a>
 </p>
 
 ---
