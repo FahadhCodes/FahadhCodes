@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hello World ! 👋</strong></h1>
+<h1 align="center"><b>Hello World ! 👋</b></h1>
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tkd2c4dGx5eWYybHUxYzYzYmFscHRpa3BuYzZhd29jbXoxaDNrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yi9mVcEISEevwyE6AD/giphy.gif" alt="my brand">
 </div>
