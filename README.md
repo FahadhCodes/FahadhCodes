@@ -11,7 +11,7 @@
 
 </div>
 
-## <span align="center">🧰 Tech Stack</span>
+## <pre align="center">🧰 Tech Stack</pre>
 
 <div align="center">
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" alt="HTML">
@@ -25,7 +25,7 @@
 <img src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000" width="50" alt="jQuery">
 </div>
 
-## <span align="center">🛠️ Tools</span>
+## <pre align="center">🛠️ Tools</pre>
 
 <div align="center">
 <img src="image-6.png" width="50" alt="photoshop">
@@ -36,7 +36,7 @@
 <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width="50" alt="power bi">
 </div>
 
-## <span align="center"> 📊 GitHub Stats <span>
+## <pre align="center">📊 GitHub Stats</pre>
 
 <div align="center">
 
@@ -45,8 +45,7 @@
 ![FahadhCodes's Stats](https://github-readme-stats.vercel.app/api?username=FahadhCodes&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
 </div>
-
-## 💬 Let’s Connect
+## <pre align="center">💬 Let’s Connect</pre>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahadworks"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A65C0?style=flat-square" alt="linkedin"></a>
