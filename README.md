@@ -45,6 +45,7 @@
 ![FahadhCodes's Stats](https://github-readme-stats.vercel.app/api?username=FahadhCodes&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
 </div>
+
 ## <pre align="center">💬 Let’s Connect</pre>
 
 <p align="center">
