@@ -2,7 +2,7 @@
 <h3 align="center">It's Fahadh</h3>
 
 <div align="center">
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGNkcjhweDRxbmJ2aWhyOHprMTJubnp0MjM1cG9ocjNoZTVlOGRnNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MD0svLSDeudszrNrp0/giphy.gif" alt="Coding animation" width="720">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3NraGJyZGk1NW5jZHJzNGRheGNteWR0OTFleHZmc2I0OHR6MTBmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vdFBdfRcsoi10m6DBN/giphy.gif" alt="my brand" width="720">
 </div>
 
 <div align="center">
