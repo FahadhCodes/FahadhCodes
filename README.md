@@ -1,7 +1,7 @@
 # <h1 align="center"><b>Hello World ! 👋</b></h1>
 
 <div align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tkd2c4dGx5eWYybHUxYzYzYmFscHRpa3BuYzZhd29jbXoxaDNrayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yi9mVcEISEevwyE6AD/giphy.gif" alt="my brand">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3g5ZTl2aTN5eHlpem5sOXZzM2QxZmxieXk5dXBmcW9hazdxc3RsNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xSOG33UhlSXOmlVYgK/giphy.gif" alt="my brand">
 </div>
 
 <div align="center">
