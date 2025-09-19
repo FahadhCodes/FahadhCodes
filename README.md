@@ -40,7 +40,7 @@
 
 <div align="center">
 
-![FahadhCodes's Streak](https://github-readme-streak-stats.herokuapp.com/?user=FahadhCodes&theme=merko&hide_border=true)
+
 ![FahadhCodes's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FahadhCodes&theme=merko&show_icons=true&hide_border=true&layout=compact)
 ![FahadhCodes's Stats](https://github-readme-stats.vercel.app/api?username=FahadhCodes&theme=merko&show_icons=true&hide_border=true&count_private=true)
 
