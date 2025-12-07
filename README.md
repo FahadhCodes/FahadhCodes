@@ -17,6 +17,7 @@
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" alt="HTML">
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" alt="css">
 <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" width="50" alt="js">
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" alt="js">
 <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="50" alt="MySQL">
 <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="50" alt="C">
 <img src="image-3.png" width="50" alt="C#">
