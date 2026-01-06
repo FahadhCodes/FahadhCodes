@@ -24,6 +24,9 @@
 <img src="image-4.png" width="50" alt="JAVA">
 <img src="image-5.png" width="50" alt="Bootstrap">
 <img src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000" width="50" alt="jQuery">
+<img src="https://img.icons8.com/color/50/numpy.png" width="50" alt="numpy"/>
+<img src="https://img.icons8.com/color/50/matplotlib.png" width="50" alt="matplotlib"/>
+<img src="https://img.icons8.com/color/50/pandas.png" width="50" alt="pandas"/>
 </div>
 
 ## <pre align="center">🛠️ Tools</pre>
