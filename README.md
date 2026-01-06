@@ -17,15 +17,13 @@
 <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width="50" alt="HTML">
 <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="50" alt="css">
 <img src="https://img.icons8.com/?size=100&id=tGvHBPJaKqEd&format=png&color=000000" width="50" alt="js">
+<img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="50" alt="js">
 <img src="https://img.icons8.com/?size=100&id=rgPSE6nAB766&format=png&color=000000" width="50" alt="MySQL">
 <img src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000" width="50" alt="C">
 <img src="image-3.png" width="50" alt="C#">
 <img src="image-4.png" width="50" alt="JAVA">
 <img src="image-5.png" width="50" alt="Bootstrap">
 <img src="https://img.icons8.com/?size=100&id=HKNzD81eiiSc&format=png&color=000000" width="50" alt="jQuery">
-<img src="https://img.icons8.com/color/50/numpy.png" width="50" alt="numpy"/>
-<img src="https://img.icons8.com/color/50/matplotlib.png" width="50" alt="matplotlib"/>
-<img src="https://img.icons8.com/color/50/pandas.png" width="50" alt="pandas"/>
 </div>
 
 ## <pre align="center">🛠️ Tools</pre>
