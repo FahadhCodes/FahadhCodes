@@ -27,6 +27,8 @@
 <img src="https://img.icons8.com/color/50/numpy.png" width="50" alt="numpy"/>
 <img src="https://img.icons8.com/color/50/matplotlib.png" width="50" alt="matplotlib"/>
 <img src="https://img.icons8.com/color/50/pandas.png" width="50" alt="pandas"/>
+<img src="https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000" width="60" alt="flask"/>
+
 </div>
 
 ## <pre align="center">🛠️ Tools</pre>
